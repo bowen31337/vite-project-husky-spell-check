@@ -5,6 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
+    "spell-check": "cspell ./src/**/*.{jsx,js,scss,css}",
     "prepare": "husky install"
   },
   "dependencies": {
