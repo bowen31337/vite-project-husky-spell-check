@@ -6,7 +6,8 @@
     // words - list of words to be always considered correct
     "words": [
         "mkdirp",
-        "Vite"
+        "Vite",
+        "vitejs"
     ],
     "ignorePaths": ["node_modules/**"],
     "allowCompoundWords":true,
